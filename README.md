@@ -7,7 +7,7 @@
 1. `Выполнил все этапы по заданию`
 
 
-![Zadanie-1.png]()`
+![Zadanie-1.png](https://github.com/oleghamov/System_monitoring_zabbix_2-9-03-hw-/blob/master/Zadanie-1.png)`
 
 ### Задание 2
 
@@ -15,9 +15,9 @@
 
 1.`Выполнил все этапы по заданию`
 
-![Zadanie-2.png]()`
+![Zadanie-2.png](https://github.com/oleghamov/System_monitoring_zabbix_2-9-03-hw-/blob/master/Zadanie-2.png)`
 
-![Zadanie-2(2).png]()`
+![Zadanie-2(2).png](https://github.com/oleghamov/System_monitoring_zabbix_2-9-03-hw-/blob/master/Zadanie-2(2).png)`
 
 ### Задание 3
 
@@ -25,9 +25,9 @@
 
 1.`Выполнил все этапы по заданию`
 
-![Zadanie-3.png]()`
+![Zadanie-3.png](https://github.com/oleghamov/System_monitoring_zabbix_2-9-03-hw-/blob/master/Zadanie-3.png)`
 
-![Zadanie-3(2).png]()`
+![Zadanie-3(2).png](https://github.com/oleghamov/System_monitoring_zabbix_2-9-03-hw-/blob/master/Zadanie-3(2).png)`
 
 ### Задание 4
 
@@ -35,7 +35,7 @@
 
 1.`Выполнил все этапы по заданию`
 
-![Zadanie-4.png]()`
+![Zadanie-4.png](https://github.com/oleghamov/System_monitoring_zabbix_2-9-03-hw-/blob/master/Zadanie-4.png)`
 
 
 
